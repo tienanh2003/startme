@@ -1,0 +1,21 @@
+# node
+node_modules/
+npm-debug.log*
+pnpm-lock.yaml
+yarn.lock
+
+# next / react
+.next/
+out/
+dist/
+.build/
+*.log
+
+# env
+.env
+.env.local
+.env.*.local
+
+# editor
+.vscode/
+.DS_Store
